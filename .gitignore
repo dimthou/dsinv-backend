@@ -1,0 +1,45 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.idea/
+/.mvn
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Build
+/build/
+
+# Test output
+/test-output/
+
+# Node
+node_modules/
+
+# Others
+*.swp
+*.swo
+
+# Ignore local configuration
+application-local.yml
